@@ -1,0 +1,3 @@
+[console_scripts]
+camel_race = games.play:main
+

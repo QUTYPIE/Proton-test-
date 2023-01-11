@@ -1,0 +1,31 @@
+{
+        "camels": [
+            {
+                "type": "Bactrian",
+                "name": "fastCamel",
+                "player": "cpu"
+            },
+            {
+                "type": "Dromedary",
+                "name": "Android",
+                "player": "cpu"
+            },
+            {
+                "type": "Domestic",
+                "name": "Camello",
+                "player": "cpu"
+            },
+            {
+                "type": "Dromedary",
+                "name": "Dromi",
+                "player": "player1"
+            }
+        ],
+        "global": {
+            "T": 6,
+            "Tp": 4,
+            "X": 10,
+            "terrain": "Sand",
+            "language": "English"
+        }
+    }

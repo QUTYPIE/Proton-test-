@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+src/play/__init__.py
+src/play/__version__.py
+src/play.egg-info/PKG-INFO
+src/play.egg-info/SOURCES.txt
+src/play.egg-info/dependency_links.txt
+src/play.egg-info/entry_points.txt
+src/play.egg-info/namespace_packages.txt
+src/play.egg-info/not-zip-safe
+src/play.egg-info/requires.txt
+src/play.egg-info/top_level.txt
